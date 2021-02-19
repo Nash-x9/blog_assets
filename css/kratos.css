@@ -68,7 +68,7 @@ ol > li {
     margin-bottom: 6px;
     padding-left: 2px;
     /*list-style: none;*/
-    line-height: 22px;
+    /*line-height: 22px;*/
 }
 
 ul > li {
