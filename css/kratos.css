@@ -67,7 +67,7 @@ ol {
 ol > li {
     margin-bottom: 6px;
     padding-left: 2px;
-    list-style: decimal;
+    /*list-style: none;*/
     line-height: 22px;
 }
 
@@ -2290,6 +2290,11 @@ a {
     float: right;
     font-size: 15px;
     cursor: pointer;
+}
+
+.toc-item{
+    list-style: none;
+    display: block;
 }
 
 /*--------------------------------------------------------------
